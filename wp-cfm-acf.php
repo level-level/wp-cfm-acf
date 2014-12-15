@@ -71,13 +71,12 @@ class LL_WP_CFM_CONFIG
 		}
 
 		// merge
-
 		foreach( $acf_groups as $group){
 			$group_title = $acf_prefix . sanitize_title_with_dashes($group['post_title']);
 
 			$items[$group_title] = array(
 				'value' => $this->acf_push($group['post_name']),
-				'group' => 'ACF',
+				'group' => 'ACF groups',
 				'callback' => array(&$this, 'acf_pull')
 			);
 
