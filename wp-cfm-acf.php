@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Level-Level WP-CFM Configuration
+Plugin Name: WP-CFM ACF
 Plugin URI: http://www.level-level.com
-Description: WP-CFM Configuration Management
-Version: 1
+Description: WP-CFM for Advanced Custom Fields groups
+Version: 0.1.0
 Author: Level Level
 Author URI: http://www.level-level.com/
 License: GPLv2
