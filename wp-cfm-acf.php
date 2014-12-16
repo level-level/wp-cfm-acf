@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WP-CFM ACF
-Plugin URI: http://www.level-level.com
+Plugin URI: http://level-level.com
 Description: WP-CFM for Advanced Custom Fields groups
 Version: 0.1.0
 Author: Level Level
-Author URI: http://www.level-level.com/
+Author URI: http://level-level.com
 License: GPLv2
 
 Copyright 2014 Level Level
